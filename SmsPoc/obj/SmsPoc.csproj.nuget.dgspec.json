@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/SmsPoc.csproj": {}
+  },
+  "projects": {
+    "/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/SmsPoc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/SmsPoc.csproj",
+        "projectName": "SmsPoc",
+        "projectPath": "/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/SmsPoc.csproj",
+        "packagesPath": "/Users/gonzalo_borges/.nuget/packages/",
+        "outputPath": "/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gonzalo_borges/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://baget.borgesgj.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.4.20258.7/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

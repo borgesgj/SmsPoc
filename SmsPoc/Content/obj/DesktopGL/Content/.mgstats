@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/Content/ironman.png","/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/Content/bin/DesktopGL/Content/ironman.xnb","TextureProcessor","Texture2DContent",28499,55245,0.143932
+"/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/Content/thanos.png","/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/Content/bin/DesktopGL/Content/thanos.xnb","TextureProcessor","Texture2DContent",34135,85645,0.172606
+"/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/Content/titan.png","/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/Content/bin/DesktopGL/Content/titan.xnb","TextureProcessor","Texture2DContent",834560,1670085,0.196941

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPyUpoVoOOxAAsTHvGYInCLc0dZTDvp7G7fTeI/Ln0oc7Ev4c2tMA7TlwImJ/1z3y3zHMEXwKga0yBFR5XiuYg==",
+  "success": true,
+  "projectFilePath": "/Users/gonzalo_borges/Projects/SmsPoc/SmsPoc/SmsPoc.csproj",
+  "expectedPackageFiles": [
+    "/Users/gonzalo_borges/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/gonzalo_borges/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
